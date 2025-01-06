@@ -11,4 +11,4 @@
 - Task 6: Function to Run queries on Database
 - Task 7: Verify log entries
 
-
+![ETL Workflow Diagram](ETL-with-Python.png)
